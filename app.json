@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/Y2d0/Herthon1",
+      "value": "https://github.com/Ypqhbaa/Herthon",
       "required": false
     }
   },
